@@ -1,0 +1,25 @@
+<DrctDbtTxInf>
+	<PmtId>REF OPE XXXX</PmtId>
+	<InstdAmt>600.23</InstdAmt>
+	<DrctDbtTx>
+		<MndtRltdInf>
+			<MndtId>MANDAT NO 000333</MndtId>
+			<DtOfSgntr>2017-04-16</DtOfSgntr>
+		</MndtRltdInf>
+	</DrctDbtTx>
+	<DbtrAgt>
+		<FinInstnId>
+		<BIC>ABNAFMTR</BIC>
+		</FinInstnId>
+	</DbtrAgt>
+	<Dbtr>
+		<Nm>Mr Debiteur N21</Nm>
+	</Dbtr>
+	<DbtrAcct>
+		<Id>
+			<IBAN>FR7630001001234567891234567</IBAN>
+		</Id>
+	</DbtrAcct>
+	<RmtInf>Facture N21</RmtInf>
+</DrctDbtTxInf>
+
