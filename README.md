@@ -17,5 +17,7 @@ https://github.com/s4id23/sepa_project.git
 
 Adresse du service REST :
 
-
 https://sepa-rest-service.herokuapp.com/
+
+
+PS: Veuillez changer l'url --> localhost:8080/rest-service/ par --> https://sepa-rest-service.herokuapp.com/  dans le classe AppClient du client pour qu'il se connecte au service distant deployé sur le serveur heroku.
